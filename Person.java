@@ -19,6 +19,7 @@ public class Person{
 
     public static void main(String[] args){
         Person p1 = new Person("Mats", 20);
+        Person p2 = new Person("Trine", 98);
         p1.describePerson();
     }
 
